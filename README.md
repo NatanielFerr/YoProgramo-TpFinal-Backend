@@ -3,3 +3,5 @@
 -Post
 -Put
 -Delete
+
+Mediante la conexión a la base de datos
